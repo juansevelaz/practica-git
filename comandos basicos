@@ -1,0 +1,6 @@
+git init → iniciar un repositorio.
+git add → preparar cambios.
+git commit → guardar los cambios.
+git status → ver el estado.
+git log → ver los commits.
+git push → subir cambios a GitHub.
